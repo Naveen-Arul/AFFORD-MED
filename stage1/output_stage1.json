@@ -1,62 +1,62 @@
 [
   {
-    "ID": "919e75ef-8435-4497-b7c8-5433ae7d9214",
+    "ID": "8dc2072d-47d4-4431-b01b-1d7c0368fb29",
     "Type": "Placement",
-    "Message": "Eli Lilly and Company hiring",
-    "Timestamp": "2026-05-18 03:54:26"
+    "Message": "Advanced Micro Devices Inc. hiring",
+    "Timestamp": "2026-05-18 02:34:06"
   },
   {
-    "ID": "6066442c-65f5-44cc-bb91-e47a7f6c6101",
+    "ID": "4549efa8-d656-4d49-b009-30b1484d2e05",
     "Type": "Placement",
-    "Message": "Apple Inc. hiring",
-    "Timestamp": "2026-05-18 01:54:12"
+    "Message": "Amazon.com Inc. hiring",
+    "Timestamp": "2026-05-17 22:33:38"
   },
   {
-    "ID": "f66bc616-fe51-44d5-a7c1-58a4d153e749",
+    "ID": "a9793463-a2be-4ba3-a293-852f594febe3",
     "Type": "Placement",
-    "Message": "Meta Platforms Inc. hiring",
-    "Timestamp": "2026-05-17 23:25:08"
+    "Message": "Booking Holdings Inc. hiring",
+    "Timestamp": "2026-05-17 22:02:14"
   },
   {
-    "ID": "a4af6ac7-6444-4f9d-ba95-42d3fab7c816",
+    "ID": "4f8cad17-0842-4148-b598-ddcd0780698a",
     "Type": "Placement",
     "Message": "Alphabet Inc. Class A hiring",
-    "Timestamp": "2026-05-17 22:22:48"
+    "Timestamp": "2026-05-17 21:04:48"
   },
   {
-    "ID": "f5c9976c-3e64-46be-8e7c-9166f866cc3e",
+    "ID": "502bf0bf-80be-4b9e-acfd-5f59d2edcba1",
     "Type": "Placement",
-    "Message": "Marvell Technology Inc. hiring",
-    "Timestamp": "2026-05-17 08:54:40"
+    "Message": "Marriott International Inc. hiring",
+    "Timestamp": "2026-05-17 18:02:28"
   },
   {
-    "ID": "6b42d163-5035-4405-9536-bbf60e1427e7",
-    "Type": "Result",
-    "Message": "mid-sem",
-    "Timestamp": "2026-05-18 02:26:04"
+    "ID": "b627408c-a9cb-4b0d-b783-2dd00b6dbf19",
+    "Type": "Placement",
+    "Message": "Nvidia Corporation hiring",
+    "Timestamp": "2026-05-17 16:35:16"
   },
   {
-    "ID": "167b2efa-6551-46db-880d-11d9bfbf5245",
-    "Type": "Result",
-    "Message": "internal",
-    "Timestamp": "2026-05-17 23:56:18"
+    "ID": "bf820d30-3989-46b0-a2b7-9426af9ab439",
+    "Type": "Placement",
+    "Message": "Advanced Micro Devices Inc. hiring",
+    "Timestamp": "2026-05-17 14:35:02"
   },
   {
-    "ID": "935106d9-70f6-4264-bcc6-821334695ddc",
-    "Type": "Result",
-    "Message": "mid-sem",
-    "Timestamp": "2026-05-17 16:55:36"
+    "ID": "2c97afeb-1048-4f69-bc70-e3803e9e3e6f",
+    "Type": "Placement",
+    "Message": "Alphabet Inc. Class C hiring",
+    "Timestamp": "2026-05-17 11:04:34"
   },
   {
-    "ID": "aa0b4e1b-dc20-4ba2-9a97-9d78f2d6cc59",
+    "ID": "10214c64-d3e5-4ce6-9e9f-502828eb6d3b",
+    "Type": "Placement",
+    "Message": "Alphabet Inc. Class C hiring",
+    "Timestamp": "2026-05-17 10:05:58"
+  },
+  {
+    "ID": "15420bfa-67ba-4c46-9e40-4aa60f8a1935",
     "Type": "Result",
     "Message": "external",
-    "Timestamp": "2026-05-17 10:53:16"
-  },
-  {
-    "ID": "2dac5b93-aea6-4356-8347-7bfc954f0974",
-    "Type": "Result",
-    "Message": "project-review",
-    "Timestamp": "2026-05-17 07:25:22"
+    "Timestamp": "2026-05-18 02:06:26"
   }
 ]

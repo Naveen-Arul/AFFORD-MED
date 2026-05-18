@@ -1,17 +1,25 @@
 import axios from "axios";
 
-const API_BASE = "http://localhost:5000";
+const LOG_ENDPOINT = "http://4.224.186.213/evaluation-service/logs";
 
 export async function sendLog(stack, level, packageName, message) {
   try {
-    await axios.post(`${API_BASE}/log`, {
-      stack,
-      level,
-      packageName,
-      message,
-    });
-  } catch (err) {
-    // Logging should not block the UI
-    console.warn("Log request failed", err.message || err);
+    await axios.post(
+      LOG_ENDPOINT,
+      {
+        stack,
+        level,
+        package: packageName,
+        message,
+      },
+      {
+        headers: {
+          Authorization: `Bearer ${import.meta.env.VITE_EVAL_TOKEN}`,
+        },
+        timeout: 10000,
+      }
+    );
+  } catch (_err) {
+    // Do not block application flow if logging fails.
   }
 }
