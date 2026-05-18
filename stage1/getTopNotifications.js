@@ -49,6 +49,8 @@ async function fetchNotifications(token) {
 async function main() {
   const topN = Number(readArg("top") || 10);
   const token = await loadToken();
+  // expose token to logging middleware (Log reads process.env.ACCESS_TOKEN when no token arg provided)
+  if (token) process.env.ACCESS_TOKEN = token;
   if (!token) {
     console.error("ACCESS_TOKEN not provided. Set ACCESS_TOKEN env var or pass --token=...");
     Log("stage1", "error", "service", "Missing access token for notifications API");

@@ -1,0 +1,62 @@
+[
+  {
+    "ID": "919e75ef-8435-4497-b7c8-5433ae7d9214",
+    "Type": "Placement",
+    "Message": "Eli Lilly and Company hiring",
+    "Timestamp": "2026-05-18 03:54:26"
+  },
+  {
+    "ID": "6066442c-65f5-44cc-bb91-e47a7f6c6101",
+    "Type": "Placement",
+    "Message": "Apple Inc. hiring",
+    "Timestamp": "2026-05-18 01:54:12"
+  },
+  {
+    "ID": "f66bc616-fe51-44d5-a7c1-58a4d153e749",
+    "Type": "Placement",
+    "Message": "Meta Platforms Inc. hiring",
+    "Timestamp": "2026-05-17 23:25:08"
+  },
+  {
+    "ID": "a4af6ac7-6444-4f9d-ba95-42d3fab7c816",
+    "Type": "Placement",
+    "Message": "Alphabet Inc. Class A hiring",
+    "Timestamp": "2026-05-17 22:22:48"
+  },
+  {
+    "ID": "f5c9976c-3e64-46be-8e7c-9166f866cc3e",
+    "Type": "Placement",
+    "Message": "Marvell Technology Inc. hiring",
+    "Timestamp": "2026-05-17 08:54:40"
+  },
+  {
+    "ID": "6b42d163-5035-4405-9536-bbf60e1427e7",
+    "Type": "Result",
+    "Message": "mid-sem",
+    "Timestamp": "2026-05-18 02:26:04"
+  },
+  {
+    "ID": "167b2efa-6551-46db-880d-11d9bfbf5245",
+    "Type": "Result",
+    "Message": "internal",
+    "Timestamp": "2026-05-17 23:56:18"
+  },
+  {
+    "ID": "935106d9-70f6-4264-bcc6-821334695ddc",
+    "Type": "Result",
+    "Message": "mid-sem",
+    "Timestamp": "2026-05-17 16:55:36"
+  },
+  {
+    "ID": "aa0b4e1b-dc20-4ba2-9a97-9d78f2d6cc59",
+    "Type": "Result",
+    "Message": "external",
+    "Timestamp": "2026-05-17 10:53:16"
+  },
+  {
+    "ID": "2dac5b93-aea6-4356-8347-7bfc954f0974",
+    "Type": "Result",
+    "Message": "project-review",
+    "Timestamp": "2026-05-17 07:25:22"
+  }
+]
